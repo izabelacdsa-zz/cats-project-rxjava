@@ -13,6 +13,7 @@ import com.domain.cats.app.databinding.ActivityMainBinding
 import com.domain.cats.app.presentation.adapter.FactsAdapter
 import com.domain.cats.app.utils.InjectorUtils
 
+// TODO: Crie as funções necessárias para exibir o CatFacts na MainActivity
 class MainActivity : AppCompatActivity() {
 
     private lateinit var dataBinding: ActivityMainBinding
