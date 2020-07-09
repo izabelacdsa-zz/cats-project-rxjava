@@ -26,5 +26,6 @@ class FactsViewModel(
 
     fun fetchFacts() {
         // TODO: implement fetchFacts method
+        // TODO: after implemented fetchFacts change this to Observable Transformer
     }
 }
